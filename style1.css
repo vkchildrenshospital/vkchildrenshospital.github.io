@@ -10,6 +10,7 @@ h1{
   justify-content: center;
   display:block;
   padding:9.375rem;
+  color:black;
 }
 * {
     margin: 0;
@@ -22,7 +23,7 @@ body{
     color: rgb(255, 255, 255);
     font-family: "Poppins", sans-serif;
     min-height: 100vh;
-} 
+}
 .logolink{
   text-decoration: none;
 }
@@ -31,7 +32,7 @@ body{
   justify-content: center;
   color:black;
   margin-top:1rem;
-  margin-bottom:1rem; 
+  margin-bottom:1rem;
   color: red;
   font-size: 35px;
   font-weight: 900;
@@ -42,7 +43,7 @@ body{
     justify-content: center;
     color:black;
     margin-top:1rem;
-    margin-bottom:1rem; 
+    margin-bottom:1rem;
     /* transform:translateX(-3%); */
 }
 .payments {
@@ -53,7 +54,7 @@ body{
   }
 .form-box{
   height: 3.5rem;
- 
+
 
 }
 
